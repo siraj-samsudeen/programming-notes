@@ -6,7 +6,7 @@
 
 I tried to do this and it did not work. 
 
-```text
+```bash
 folder1 = 'Dec&Nov_19_20_RCN_RRPL/RCN/'
 %ls folder1 
 ```
@@ -20,7 +20,7 @@ There are 2 options:
 
 When I tried both the options, I still got an error. As suggested
 
-```text
+```bash
 folder1 = 'Dec&Nov_19_20_RCN_RRPL/RCN'
 %ls -lh $folder1
 
@@ -32,11 +32,6 @@ folder1 = 'Dec&Nov_19_20_RCN_RRPL/RCN'
 
 This means that the & symbol is interpreted in some way cutting off the part of the folder-name before that. So, If I use double-quotes, it works. So, use double-quotes if there are spaces or any other special characters that can break the command line arguments. 
 
-### When to use a raw string format when passing arguments?
+### When to use a raw string format when passing arguments to shell commands?
 
 {% embed url="https://stackoverflow.com/questions/61606054/passing-ipython-variables-as-string-arguments-to-shell-command" %}
-
-
-
-
-
