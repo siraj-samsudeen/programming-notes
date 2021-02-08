@@ -4,14 +4,14 @@
 
 ### How to pass a python variable as an argument to a bash program?
 
-I tried to do this and it did not work. 
+I tried to do this and it did not work.
 
 ```bash
 folder1 = 'Dec&Nov_19_20_RCN_RRPL/RCN/'
-%ls folder1 
+%ls folder1
 ```
 
-{% embed url="https://stackoverflow.com/questions/35497069/passing-ipython-variables-as-arguments-to-bash-commands/35497161" %}
+{% embed url="https://stackoverflow.com/questions/35497069/passing-ipython-variables-as-arguments-to-bash-commands/35497161" caption="" %}
 
 There are 2 options:
 
@@ -30,8 +30,9 @@ folder1 = 'Dec&Nov_19_20_RCN_RRPL/RCN'
 %ls -lh "{folder1}"
 ```
 
-This means that the & symbol is interpreted in some way cutting off the part of the folder-name before that. So, If I use double-quotes, it works. So, use double-quotes if there are spaces or any other special characters that can break the command line arguments. 
+This means that the & symbol is interpreted in some way cutting off the part of the folder-name before that. So, If I use double-quotes, it works. So, use double-quotes if there are spaces or any other special characters that can break the command line arguments.
 
 ### When to use a raw string format when passing arguments to shell commands?
 
-{% embed url="https://stackoverflow.com/questions/61606054/passing-ipython-variables-as-string-arguments-to-shell-command" %}
+{% embed url="https://stackoverflow.com/questions/61606054/passing-ipython-variables-as-string-arguments-to-shell-command" caption="" %}
+
