@@ -1,8 +1,12 @@
 # Pandas
 
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.ng enough, save the world:ng enough, save the world:
+## Can I become who I want to be?
 
-{% embed url="https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/" %}
+That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
 
-Start taking notes here after finishing the page once...
+## Have you had a chance to answer the previous question?
+
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
+
 
