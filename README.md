@@ -1,12 +1,10 @@
-# Landing Page
+# Notes on my Programming Journey with Python and Javascript
 
-## Can I become who I want to be? Not really
+{% embed url="https://medium.com/me/stories/public" caption="My Medium Blog" %}
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+{% embed url="https://siraj-samsudeen.medium.com/month-15-i-have-hit-my-first-plateau-time-of-doubt-and-questioning-de67099cbb75?source=your\_stories\_page-------------------------------------" %}
 
-## Have you had a chance to answer the previous question?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
 
 
